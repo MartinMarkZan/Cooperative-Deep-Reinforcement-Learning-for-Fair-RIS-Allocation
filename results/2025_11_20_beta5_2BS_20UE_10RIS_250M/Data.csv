@@ -1,0 +1,5 @@
+,Sum rate,Cost,Number of RISs allocated,Bid value
+RL beta 5.0,5.4682,0.2746,3.1700,0.8367
+Greedy,5.5851,0.5665,2.8650,0.7262
+Distance-based,2.9586,0.0000,0.0000,0.5917
+Without RISs,2.9600,0.0000,0.0000,0.0000

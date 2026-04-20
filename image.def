@@ -1,0 +1,8 @@
+Bootstrap: docker
+From: python:3.12.7
+
+%files
+    $PWD/requirements.txt requirements.txt
+
+%post
+    python3 -m pip install -r requirements.txt
